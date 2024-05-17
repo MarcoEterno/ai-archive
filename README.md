@@ -1,0 +1,2 @@
+# AI papers archive
+In order to familiarize myself with the topic of Artificial intelligence, I attended classes from The top U.S. universities, and read 200+ academic papers. While i gathered this information, I thought of the value of being able to find the most consequential papers with just one click, instead of searching the web and having to understand what is important and what isn't. So I decided to make my papers archive public, and it is now used by my collaborators in the field.
